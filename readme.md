@@ -1,6 +1,6 @@
 # Weather Sensor with Bitwise Storage
 
-Learning bitwise operations, goroutines, and memory efficiency in Go.
+Learning bitwise operations, and memory efficiency in Go.
 
 ## What It Does
 
